@@ -13,6 +13,7 @@
 [www.北京原神大学.com](http://www.北京原神大学.com) → 北京交通大学  
 [www.北京原神大专.com](http://www.北京原神大专.com) → 北京理工大学  
 [www.天津原神大学.top](http://www.天津原神大学.top) → 天津理工大学  
+[www.原神商学院.top](http://www.原神商学院.top) → 天津商业大学
 [www.原神启动.com](http://www.原神启动.com) → 燕山大学MC社团  
 [www.中国op大学.com](http://www.中国op大学.com) → 中国海洋大学  
 [www.玩原神玩的.com](http://www.玩原神玩的.com) → 中国科学技术大学  
