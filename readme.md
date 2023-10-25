@@ -9,7 +9,7 @@
 [www.东北原神大学.com](http://www.东北原神大学.com) → 吉林大学  
 [www.长春原神大学.com](http://www.长春原神大学.com) → 长春理工大学  
 [www.中国原神大学.net](http://中国原神大学.net) → 东北大学  
-[www.原来你也玩原神.com](http://www.原来你也玩原神.com) → 北京科技大  学
+[www.原来你也玩原神.com](http://www.原来你也玩原神.com) → 北京科技大学  
 [www.北京原神大学.com](http://www.北京原神大学.com) → 北京交通大学  
 [www.北京原神大专.com](http://www.北京原神大专.com) → 北京理工大学  
 [www.天津原神大学.top](http://www.天津原神大学.top) → 天津理工大学  
