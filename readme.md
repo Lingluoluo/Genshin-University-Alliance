@@ -13,7 +13,7 @@
 [www.北京原神大学.com](http://www.北京原神大学.com) → 北京交通大学  
 [www.北京原神大专.com](http://www.北京原神大专.com) → 北京理工大学  
 [www.天津原神大学.top](http://www.天津原神大学.top) → 天津理工大学  
-[www.原神商学院.top](http://www.原神商学院.top) → 天津商业大学
+[www.原神商学院.top](http://www.原神商学院.top) → 天津商业大学  
 [www.原神启动.com](http://www.原神启动.com) → 燕山大学MC社团  
 [www.中国op大学.com](http://www.中国op大学.com) → 中国海洋大学  
 [www.玩原神玩的.com](http://www.玩原神玩的.com) → 中国科学技术大学  
@@ -34,6 +34,7 @@
 [www.中国原神大学.com](http://www.中国原神大学.com) → 中国石油大学  
 [www.中国原神学院.icu](http://中国原神学院.icu) → 中国民用航空飞行学院  
 [www.南京原神大学.com](http://www.南京原神大学.com) → 南京大学  
+[www.江苏原神大学.com](http://www.江苏原神大学.com) → 江苏大学  
 [www.南京原神大学.cn](http://南京原神大学.cn) → 南京邮电大学  
 [www.常州原神大学.com](http://www.常州原神大学.com) → 常州大学  
 [www.江西原神大学.com](http://www.江西原神大学.com) → 江西财经大学  
@@ -48,6 +49,7 @@
 [www.深圳原神大学.com](http://深圳原神大学.com) → 深圳大学  
 [www.原神科技大学.com](http://www.原神科技大学.com) → 澳门科技大学  
 [www.澳门原神大学.com](http://www.澳门原神大学.com) → 澳门理工大学  
+[www.璃月原神大学.com](http://www.璃月原神大学.com) → 香港都会大学  
 [www.海南原神大学.com](http://海南原神大学.com) → 海南大学  
   
 [www.美国原神大学.com](http://www.美国原神大学.com)→纽约大学  
