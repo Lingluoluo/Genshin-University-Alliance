@@ -1,4 +1,4 @@
-# 原神大学联盟  
+# 原神高校联盟  
 # Genshin University Alliance  
   
 ## 目录 (按地域从北到南排序)  
@@ -37,13 +37,16 @@
 [www.江苏原神大学.com](http://www.江苏原神大学.com) → 江苏大学  
 [www.南京原神大学.cn](http://南京原神大学.cn) → 南京邮电大学  
 [www.常州原神大学.com](http://www.常州原神大学.com) → 常州大学  
+[www.原神.ltd](http://www.原神.ltd) → 上海立达学院  
+[www.上海原神学院.net](http://www.上海原神学院.net)  → 上海立达学院  
+[www.上海原神大学.net](http://www.上海原神大学.net)  → 上海海事大学  
 [www.江西原神大学.com](http://www.江西原神大学.com) → 江西财经大学  
 [www.原神怎么你了.com](http://www.原神怎么你了.com) → 浙江财经大学东方学院  
 [www.原神枫丹水利大学.fun](http://原神枫丹水利大学.fun) 浙江水利水电学院  
 [www.世界原神大学.com](http://www.世界原神大学.com) → 广西大学  
 [www.原神大学.com](http://www.原神大学.com) → 广州城市理工学院  
 [www.广东原神大学.com](http://www.广东原神大学.com) → 东莞理工学院  
-[www.世界原神大学 com](http://www.世界原神大学.com) → 广西大学  
+[www.世界原神大学 com](http://www.世界原神大学.com) → 广西大学    
 [www.广西原神大学.com](http://广西原神大学.com) → 南宁师范大学
 [www.原神大专.com](http://www.原神大专.com) → 广东财贸职业学院  
 [www.原神启动.space](http://原神启动.space) → 广州商学院  
@@ -60,8 +63,7 @@
   
 ### 关于更新  
 如果有更多原神高校加入名单，可以提交pr/提issues，看到会合并进来。  
-图一乐（x）  
-
+欢迎更多高校加入这场闹剧，图一乐（x）  
 
 
 
