@@ -47,7 +47,7 @@
 [www.原神大学.com](http://www.原神大学.com) → 广州城市理工学院  
 [www.广东原神大学.com](http://www.广东原神大学.com) → 东莞理工学院  
 [www.世界原神大学 com](http://www.世界原神大学.com) → 广西大学    
-[www.广西原神大学.com](http://广西原神大学.com) → 南宁师范大学
+[www.广西原神大学.com](http://广西原神大学.com) → 南宁师范大学  
 [www.原神大专.com](http://www.原神大专.com) → 广东财贸职业学院  
 [www.原神启动.space](http://原神启动.space) → 广州商学院  
 [www.深圳原神大学.com](http://深圳原神大学.com) → 深圳大学  
