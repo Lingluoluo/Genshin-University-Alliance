@@ -40,6 +40,7 @@
 [www.原神.ltd](http://www.原神.ltd) → 上海立达学院  
 [www.上海原神学院.net](http://www.上海原神学院.net)  → 上海立达学院  
 [www.上海原神大学.net](http://www.上海原神大学.net)  → 上海海事大学  
+[www.上海原神大学.cn](http://www.上海原神大学.cn) →  上海交通大学  
 [www.江西原神大学.com](http://www.江西原神大学.com) → 江西财经大学  
 [www.原神怎么你了.com](http://www.原神怎么你了.com) → 浙江财经大学东方学院  
 [www.原神枫丹水利大学.fun](http://原神枫丹水利大学.fun) 浙江水利水电学院  
